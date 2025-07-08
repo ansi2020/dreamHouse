@@ -2,7 +2,7 @@ public with sharing class AccountController {
   public  void createRelatedOpp(List<Account> accList)
     {
       //testing git
-      //for learning
+  
       List<Opportunity> oppList = new List<Opportunity>();
 
         for(Account acc : accList)
