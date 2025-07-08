@@ -9,6 +9,7 @@ public class dmlLearn
         acc1.name = 'account'+i;
         acc1.accountnumber = '1234';
         acc1.phone = '00000';
+        acc1.Description = 'Account Created';
         acc.add(acc1);
         }
         /*acc1.name = 'test dmlinsert1';
